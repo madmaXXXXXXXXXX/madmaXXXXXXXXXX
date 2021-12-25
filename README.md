@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madmaXXXXXXXXXX
+- 👋 Hi, I’m mihir sharma
 - 👀 I’m interested in dveloping various websites and web apps
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
